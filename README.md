@@ -14,10 +14,20 @@
   
  * reactプロジェクト作成
  
-   自分のPCに任意のフォルダ作成し、cdコマンドで移動する
+  自分のPCに任意のフォルダ作成し、cdコマンドで移動する
    
-   下記コマンドでreactプロジェクト作成
+  下記コマンドでreactプロジェクト作成(※すこし時間がかかる)
    
-   npx create-react-app front
+  npx create-react-app front
 
+* reactプロジェクト起動
+  
+  cd frontコマンドでfrontフォルダに移動する
 
+　code .コマンドでVisual Studio Codeを立ち上げて、メニューバーの「ターミナル」で新規ターミナルを開く
+ 
+  下記コマンドでfrontプロジェクトを起動する
+  
+  npm run start
+ 
+ <img width="797" alt="image" src="https://user-images.githubusercontent.com/113239293/189515338-c5e40b85-a380-44a2-8df2-264e72b585c0.png">
