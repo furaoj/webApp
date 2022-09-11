@@ -21,7 +21,7 @@
   npx create-react-app front
 
 * reactプロジェクト起動
-  
+
   cd frontコマンドでfrontフォルダに移動する
 　
   code .コマンドでVisual Studio Codeを立ち上げて、メニューバーの「ターミナル」で新規ターミナルを開く
