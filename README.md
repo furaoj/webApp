@@ -15,6 +15,7 @@
 * reactプロジェクト作成
   
   自分のPCに任意のフォルダ作成し、cdコマンドで移動する
+  
   下記コマンドでreactプロジェクト作成(※すこし時間がかかる)
    
   npx create-react-app front
