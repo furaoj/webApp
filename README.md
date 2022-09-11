@@ -31,3 +31,8 @@
   npm run start
  
  <img width="797" alt="image" src="https://user-images.githubusercontent.com/113239293/189515338-c5e40b85-a380-44a2-8df2-264e72b585c0.png">
+ 
+ Chromeが下記画面でればOK
+ 
+ <img width="948" alt="image" src="https://user-images.githubusercontent.com/113239293/189515465-edae02c1-7097-4e61-904f-2e72c2b3a555.png">
+
