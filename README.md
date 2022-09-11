@@ -2,7 +2,7 @@
 # フロントエンド開発環境構築
 * npm/Node.jsのインストール
 
-  目的：reactプロジェクト作成時にnpmが必要なため
+  目的：reactプロジェクト作成時にnpm(npx)が必要なため
 
   https://nodejs.org/ja/download/
   
