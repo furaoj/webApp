@@ -1,15 +1,10 @@
 # webApp
 
 # フロントエンド開発環境構築
-npm/Node.jsのインストール
+1.npm/Node.jsのインストール
+目的：reactプロジェクト作成時にnpmが必要なため
 
-インストール手順
-https://nodejs.org/ja/download/　
+https://nodejs.org/ja/download/
 から自分のPCのOSにあったインストーラーを選択する。
-ようこそNode.jsインストーラーへ →　続ける
-使用許諾契約　→ 続ける　→ 同意する
-インストール先の選択　→　続ける
-"XXXXX"に標準インストール　→ インストール
-インストールが完了しました　→ 閉じる
 
 
