@@ -4,7 +4,8 @@
 npm/Node.jsのインストール
 
 インストール手順
-https://nodejs.org/ja/download/　から自分のPCのOSにあったインストーラーを選択する。
+https://nodejs.org/ja/download/　
+から自分のPCのOSにあったインストーラーを選択する。
 ようこそNode.jsインストーラーへ →　続ける
 使用許諾契約　→ 続ける　→ 同意する
 インストール先の選択　→　続ける
