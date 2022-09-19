@@ -37,12 +37,12 @@
   <img width="948" alt="image" src="https://user-images.githubusercontent.com/113239293/189515465-edae02c1-7097-4e61-904f-2e72c2b3a555.png">
   
 * 補足
-
-　　Visual Studio Codeの下記整形ツールをおすすめ
   
-  　ES7+ React/Redux/React-Native snippets
-  
-  　Automatically format code in Visual Studio Code when working with JavaScript and React with Prettier
-  
-  　Search for “format on save” setting and check the checkbox.
+  Visual Studio Codeの下記整形ツールをおすすめ
+  　
+  ES7+ React/Redux/React-Native snippets
+   
+  Automatically format code in Visual Studio Code when working with JavaScript and React with Prettier
+   
+  Search for “format on save” setting and check the checkbox.
 
