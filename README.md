@@ -38,7 +38,7 @@
   
 * 補足
 
-　Visual Studio Codeの整形ツールをおすすめ
+　Visual Studio Codeの下記整形ツールをおすすめ
  
   ES7+ React/Redux/React-Native snippets
   
