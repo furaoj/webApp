@@ -38,8 +38,8 @@
   
 * 補足
   
-  Visual Studio Codeの下記整形ツールをおすすめ
-  　
+  Visual Studio Codeの整形ツールをおすすめ 
+  
   ES7+ React/Redux/React-Native snippets
    
   Automatically format code in Visual Studio Code when working with JavaScript and React with Prettier
