@@ -39,7 +39,10 @@
 * 補足
 
 　Visual Studio Codeの整形ツールをおすすめ
+ 
   ES7+ React/Redux/React-Native snippets
+  
   Automatically format code in Visual Studio Code when working with JavaScript and React with Prettier
+  
   Search for “format on save” setting and check the checkbox.
 
