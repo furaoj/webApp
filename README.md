@@ -54,7 +54,7 @@
  
   画面遷移用：react-router-dom
   
-  結合テスト用：playwright（インストールコマンド：npm init playwright@latest）
+  結合テスト用：playwright（インストールコマンド：npm init playwright@latest）※対話形式必要なためinitを使用
   
       インストール後、reactプロジェクトにあるpackage.jsonのscriptsセクションに下記を追記
     
