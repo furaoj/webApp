@@ -55,3 +55,42 @@
   画面遷移用：react-router-dom
   
   結合テスト用：playwright（インストールコマンド：npm init playwright@latest）
+  
+  
+# バックエンド開発環境構築
+* pythonのインストール
+  
+  https://www.python.jp/install/windows/install.html
+  
+  インストール後コマンドプロンプトにてpythonで確認
+  
+* 仮想環境作り
+  
+  フロントエンドのフォルダと同じ階層に下記コマンドで実行
+  
+  python -m venv back
+  
+* 仮想環境起動（ここからはVisual Studio Codeのターミナルで実施）
+
+  backフォルダに移動して、下記コマンドで実行
+  
+  [開発フォルダの場所]\back\Scripts\activate
+  
+* 必要なライブラリインストール
+
+  一括インストールの場合、サンプルのrequirements.txtを使用
+  
+  pip install requirements.txt
+  
+  個別インストールの場合、pip install [ライブラリ名]
+  
+* バックエンド起動
+
+  uvicorn main:app --reload
+  
+  下記の状態であれば、OK
+  
+  <img width="507" alt="image" src="https://user-images.githubusercontent.com/113239293/192133453-b804a1e3-1cb9-479f-9990-5ce10060715f.png">
+
+  
+  
