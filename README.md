@@ -47,11 +47,11 @@
   Search for “format on save” setting and check the checkbox.
 
 * 必要なライブラリ（npm installでインストール）
-
- API接続用：axios
+  
+  API接続用：axios
  
- 画面表示用：react-bootstrap
+  画面表示用：react-bootstrap
  
- 画面遷移用：react-router-dom
- 
- 結合テスト用：playwright（インストールコマンド：npm init playwright@latest）
+  画面遷移用：react-router-dom
+  
+  結合テスト用：playwright（インストールコマンド：npm init playwright@latest）
