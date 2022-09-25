@@ -78,11 +78,11 @@
   
 * 必要なライブラリインストール
 
-  一括インストールの場合、サンプルのrequirements.txtを使用
+  下記コマンドで一括インストール（サンプルのrequirements.txtを使用）
   
   pip install requirements.txt
   
-  個別インストールの場合、pip install [ライブラリ名]
+  ※ちなみに、個別インストールの場合、pip install [ライブラリ名]
   
 * バックエンド起動
 
