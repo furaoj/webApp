@@ -56,6 +56,11 @@
   
   結合テスト用：playwright（インストールコマンド：npm init playwright@latest）
   
+    インストール後、reactプロジェクトにあるpackage.jsonのscriptsセクションに下記を追記
+    "test:e2e": "playwright test"
+    結合テストの起動コマンド：npm run test:e2e
+    補足：単体テストの起動コマンド：npm run test
+  
   
 # バックエンド開発環境構築
 * pythonのインストール
