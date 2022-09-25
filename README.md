@@ -91,6 +91,12 @@
   下記の状態であれば、OK
   
   <img width="507" alt="image" src="https://user-images.githubusercontent.com/113239293/192133453-b804a1e3-1cb9-479f-9990-5ce10060715f.png">
+  
+* DBインストール
+
+  https://www.postgresql.org/download/
+  
+  ※GUI操作用のpgAdminも同梱されているのて、一緒にインストール
 
   
   
