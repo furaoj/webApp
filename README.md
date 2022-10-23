@@ -98,6 +98,10 @@
   
   ※ちなみに、個別インストールの場合、pip install [ライブラリ名]
   
+  requirements.txtの出力コマンド
+  
+  pip freeze > requirements.txt
+  
 * バックエンド起動
 
   uvicorn main:app --reload
