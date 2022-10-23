@@ -94,7 +94,7 @@
 
   下記コマンドで一括インストール（サンプルのrequirements.txtを使用）
   
-  pip install requirements.txt
+  pip install -r requirements.txt
   
   ※ちなみに、個別インストールの場合、pip install [ライブラリ名]
   
