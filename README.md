@@ -70,11 +70,13 @@
   
   
 # バックエンド開発環境構築
-* pythonのインストール
+* pythonのインストール（最新の3.10を推奨）
   
   https://www.python.jp/install/windows/install.html
   
   インストール後コマンドプロンプトにてpythonで確認
+  
+  ※Microsoft Storeからもダウンロード可能
   
 * 仮想環境作り
   
