@@ -115,6 +115,14 @@
   https://www.postgresql.org/download/
   
   ※GUI操作用のpgAdminも同梱されているのて、一緒にインストール
+  
+  データベース下記情報で作成
+  
+  dsn = "dbname=stock host=localhost user=postgres password=1234"
+  
+  データインポートコマンド
+  
+  python -c "import batch.importData as bat; bat.importData()"
 
   
   
