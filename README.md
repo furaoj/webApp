@@ -110,6 +110,10 @@
   
   <img width="507" alt="image" src="https://user-images.githubusercontent.com/113239293/192133453-b804a1e3-1cb9-479f-9990-5ce10060715f.png">
   
+* 単体テスト
+
+　python -m unittest discover -v
+  
 * DBインストール
 
   https://www.postgresql.org/download/
