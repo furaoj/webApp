@@ -112,7 +112,7 @@
   
 * 単体テスト
 
-　python -m unittest discover -v
+  python -m unittest discover -v
   
 * DBインストール
 
