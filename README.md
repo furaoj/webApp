@@ -48,7 +48,7 @@
 
 * 必要なライブラリ（npm installでインストール）
   
-  API接続用：axios
+  API接続用：axios(0.21.0)※最新版はjestつかえないため
  
   画面表示用：react-bootstrap
  
