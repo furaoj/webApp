@@ -64,9 +64,11 @@
     
       補足：単体テストの起動コマンド：npm run test
   
-  ビルド成果物確認用：serve
+  ビルド関連：
   
-      起動コマンド：serve -s build
+      ビルドコマンド：npm run build
+  
+      ビルド成果物確認用コマンド：serve -s build
   
   
 # バックエンド開発環境構築
