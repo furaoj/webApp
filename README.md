@@ -70,6 +70,14 @@
   
       ビルド成果物確認用コマンド：serve -s build
   
+  HTTPサーバ（apache）配置関連：
+  
+      apache起動コマンド：C:\Apache24\bin\httpd.exe
+  
+      ビルド成果物をapacheのソースフォルダにコピー：C:\Apache24\htdocs
+      
+      apache成果物確認：http://localhost/
+  
   
 # バックエンド開発環境構築
 * pythonのインストール（最新の3.10を推奨）
