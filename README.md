@@ -50,7 +50,7 @@
   
   API接続用：axios(0.21.0)※最新版はjestつかえないため
  
-  画面表示用：react-bootstrap
+  画面表示用：react-bootstrap（react環境でbootstrapを使うためのライブラリ※bootstrapもインストール必要）
  
   画面遷移用：react-router-dom
   
