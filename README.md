@@ -146,7 +146,6 @@
   
   の128行目に下記を追加
   
-  #予測ファイルを出力
   fig.savefig("files/" + x_label + ".png")
 
   
