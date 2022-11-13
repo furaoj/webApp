@@ -144,7 +144,7 @@
   
   \back\Lib\site-packages\sktime\utils\plotting.py
   
-  の128行目に下記を追加
+  の135行目に下記を追加
   
   fig.savefig("files/" + x_label + ".png")
 
