@@ -137,6 +137,17 @@
   データインポートコマンド
   
   python -c "import batch.importData as bat; bat.importData()"
+ 
+* 株価予測画像出力のため
+
+  下記ファイル
+  
+  \back\Lib\site-packages\sktime\utils\plotting.py
+  
+  の128行目に下記を追加
+  
+  #予測ファイルを出力
+  fig.savefig("files/" + x_label + ".png")
 
   
   
