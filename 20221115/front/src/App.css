@@ -1,0 +1,38 @@
+
+
+.InputDiv {
+  position:absolute;
+  top:30%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  text-align: center;
+}
+
+.InfoDiv {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:1%;
+  text-align: center;
+  width:90%
+}
+
+.InputButton{
+  background-color: #ffffff!important;
+  color: #4e95fd!important;
+}
+
+.InputButton:hover{
+  background-color: #4e95fd!important;
+  color: #ffffff!important;
+}
+
+.InputButton:disabled{
+  border: #999999!important;
+  background-color: #999999!important;
+  color: #ffffff!important;
+}
+
+.PreDivButton
+{
+  text-align: right;
+}

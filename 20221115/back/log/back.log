@@ -1,0 +1,14 @@
+[2022-11-14 22:42:47,610] [2916] [INFO] [server.py:75 serve] Started server process [2916] 
+[2022-11-14 22:42:47,611] [2916] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-14 22:42:47,612] [2916] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-14 22:45:05,337] [2916] [INFO] [main.py:69 get_stock_name] 銘柄コード:5021 
+[2022-11-15 18:18:02,673] [10476] [INFO] [server.py:75 serve] Started server process [10476] 
+[2022-11-15 18:18:02,674] [10476] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-15 18:18:02,675] [10476] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-15 18:20:33,255] [10476] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
+[2022-11-15 18:55:47,218] [10476] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
+[2022-11-15 18:59:04,588] [10476] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-15 19:00:41,948] [16628] [INFO] [server.py:75 serve] Started server process [16628] 
+[2022-11-15 19:00:41,949] [16628] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-15 19:00:41,949] [16628] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-15 19:01:23,361] [16628] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
