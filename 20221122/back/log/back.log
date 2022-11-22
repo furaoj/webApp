@@ -1,0 +1,149 @@
+[2022-11-14 22:42:47,610] [2916] [INFO] [server.py:75 serve] Started server process [2916] 
+[2022-11-14 22:42:47,611] [2916] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-14 22:42:47,612] [2916] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-14 22:45:05,337] [2916] [INFO] [main.py:69 get_stock_name] 銘柄コード:5021 
+[2022-11-15 18:18:02,673] [10476] [INFO] [server.py:75 serve] Started server process [10476] 
+[2022-11-15 18:18:02,674] [10476] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-15 18:18:02,675] [10476] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-15 18:20:33,255] [10476] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
+[2022-11-15 18:55:47,218] [10476] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
+[2022-11-15 18:59:04,588] [10476] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-15 19:00:41,948] [16628] [INFO] [server.py:75 serve] Started server process [16628] 
+[2022-11-15 19:00:41,949] [16628] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-15 19:00:41,949] [16628] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-15 19:01:23,361] [16628] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
+[2022-11-15 19:25:02,723] [16628] [INFO] [main.py:69 get_stock_name] 銘柄コード:2121 
+[2022-11-20 22:07:58,423] [13372] [INFO] [server.py:75 serve] Started server process [13372] 
+[2022-11-20 22:07:58,424] [13372] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-20 22:07:58,425] [13372] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-20 22:15:40,445] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:2112 
+[2022-11-20 22:20:17,308] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:20:18,454] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:20:26,100] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:20:27,061] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:20:34,153] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:20:35,149] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:22:15,458] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:22:16,389] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:28:03,651] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:28:04,680] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:28:05,306] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:29:56,327] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:29:57,458] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:29:57,725] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:33:05,388] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:33:06,427] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:33:06,896] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:33:50,847] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:33:52,021] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:33:52,276] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:38:00,366] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:38:01,640] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:38:01,850] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:38:03,090] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:39:25,096] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:39:26,132] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:39:26,593] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:39:27,521] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:41:33,303] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:41:34,374] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:41:34,801] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:41:35,878] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:18,042] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:19,336] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:43:19,448] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:20,992] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:31,637] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:33,178] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:43:34,691] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:38,087] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:53,148] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:43:55,543] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:43:58,158] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:02,309] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:17,498] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:44:22,636] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:23,623] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:30,193] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:44,536] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:47,040] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:44:48,703] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:44:52,725] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:45:00,731] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:45:01,437] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:45:03,017] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:45:04,977] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:45:11,293] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:45:11,551] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:45:13,087] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:45:14,914] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:48:18,814] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:48:49,792] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:48:50,945] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:48:51,264] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:48:52,431] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:03,405] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:06,024] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:49:07,618] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:10,760] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:23,511] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:24,674] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:49:27,492] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:30,441] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:38,293] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:49:39,523] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:41,066] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:43,075] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:55,529] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:49:55,724] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:59,165] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:49:59,574] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:50:09,028] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:50:09,336] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:50:10,832] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:50:12,575] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:50:18,274] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:50:18,559] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 22:50:20,450] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 22:50:20,595] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 23:14:29,527] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 23:14:30,578] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-20 23:14:30,990] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 23:14:32,061] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-20 23:15:18,464] [13372] [INFO] [main.py:69 get_stock_name] 銘柄コード:2121 
+[2022-11-22 17:49:40,302] [2996] [INFO] [server.py:75 serve] Started server process [2996] 
+[2022-11-22 17:49:40,308] [2996] [INFO] [on.py:47 startup] Waiting for application startup. 
+[2022-11-22 17:49:40,309] [2996] [INFO] [on.py:61 startup] Application startup complete. 
+[2022-11-22 17:59:44,044] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 17:59:44,266] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 17:59:46,397] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 17:59:50,512] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:00:54,193] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:00:54,349] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:00:56,717] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:00:56,849] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:01:18,520] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:01:19,325] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:01:22,846] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:01:25,858] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:01:41,062] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:01:42,296] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:01:45,723] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:01:48,980] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:03:04,702] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:9024 
+[2022-11-22 18:40:21,187] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:40:21,418] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:40:23,970] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:40:24,170] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:46:36,811] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:46:37,277] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:46:40,296] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:46:41,930] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:46:59,927] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:47:03,030] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:47:05,150] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:47:08,017] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:47:28,764] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:47:34,454] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
+[2022-11-22 18:47:40,028] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:1234 
+[2022-11-22 18:47:44,376] [2996] [INFO] [main.py:69 get_stock_name] 銘柄コード:3470 
